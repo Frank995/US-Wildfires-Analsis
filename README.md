@@ -9,7 +9,7 @@ This repository contains a notebook with the analysis of the open dataset: <a hr
 
 The code was tested in Python 3.9 but older version may work as well. I would advise to use conda to create a separate environment to make sure it works.
 
-## How to reproduce
+## How to set up the env
 
 <ol>
     <li>Download and extract the repository</li>
@@ -28,3 +28,6 @@ To install the requirements you need to run:
 ```
 pip install -r requirements.txt
 ```
+
+## How to reproduce
+Just run every cell one by one. If some files is missing or corrupted an error message will be raise. For every point there are interactive widgets you can use to customise the output.
